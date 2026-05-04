@@ -1,4 +1,4 @@
-# TP Git binôme
+# TP Git binôme vivelarjent
 - A : Antoine
 Intro rédigée par A
 ## Section A
